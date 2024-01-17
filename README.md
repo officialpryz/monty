@@ -118,7 +118,7 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 </details>
 
 <details>
-    <summary>Chukwuoma Chizoba</summary>
+    <summary>Olawale Iwayemi</summary>
     <ul>
     <li><a href="https://www.github.com/Addizz-cell">Github</a></li>
     <li><a href="mailto:iwayemiolawale@gmail.com">e-mail</a></li>
